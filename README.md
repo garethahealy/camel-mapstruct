@@ -2,4 +2,4 @@
 [![License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)]()
 
 # camel-mapstruct
-
+Component to integrate MapStruct into Apache Camel as a first-class citizen.
